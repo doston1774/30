@@ -1,0 +1,6 @@
+{
+  "name": "Zarhal & Billur - Hashamatli Chinni va Shisha Buyumlari",
+  "description": "Chinni, optik billur va nozik shishadan yasalgan qimmatbaho eksklyuziv idish-tovoqlar doʻkoni. 3D interaktiv tomosha, UZS/$ narxlar, sifat indikatorlari va AI ekspertiza.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
